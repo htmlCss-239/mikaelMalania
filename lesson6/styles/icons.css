@@ -1,0 +1,32 @@
+i {
+    font-size: 38px;
+    color: blue;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* flex-direction: column; */
+}
+
+.line {
+    width: 100%;
+    height: 20px;
+    background-color: black;
+}
+
+.line2 {
+    width: 100%;
+    height: 20px;
+    background-color: red;
+}
+
+.line-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}

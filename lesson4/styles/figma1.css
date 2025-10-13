@@ -1,0 +1,25 @@
+.headerWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+
+nav a {
+    color: black;
+    margin-top: 20px;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 3px;
+}
+
+#text1 {
+    text-align: center;
+}
+
+body {
+    max-width: 960px;
+}
